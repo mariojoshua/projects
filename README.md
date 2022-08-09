@@ -6,7 +6,8 @@
 ### Stack - 
 - Backend - Java SE 16 
 - Frontend - Terminal
-- Database - HSQLDB
+- Database - JDBC, HSQLDB
+- Design Patterns - MVC, Singleton, DAO
 
 ## Excel VBA
 1. [Kindle Clippings Formatter](https://github.com/mariojoshua/KindleClippingsFormatter) - VBA Macro
