@@ -5,5 +5,6 @@ Java
 Stack - Java SE 16 - HSQLDB
 
 Excel VBA
-1.Kindle Clippings Formatter - VBA Macro
+  1. [Kindle Clippings Formatter](https://github.com/mariojoshua/KindleClippingsFormatter) - VBA Macro
+  
 
