@@ -1,4 +1,4 @@
-# These are my projects
+# These are my current projects
 
 ## Java
 1. [Phone Book Organizer Project](https://github.com/mariojoshua/PhoneBookApp) - Destop App
