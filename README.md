@@ -14,4 +14,6 @@
 1. [Kindle Clippings Formatter](https://github.com/mariojoshua/KindleClippingsFormatter) - VBA Macro
   
 |Language|Project Link|
+|---|---|
+|Java|Kindle Clippings Formatter|
 
