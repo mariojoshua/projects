@@ -3,7 +3,7 @@
 ## Java
 1. [Phone Book Organizer Project](https://github.com/mariojoshua/PhoneBookApp) - Destop App
 
-### Stack - 
+### Stack 
 - Backend - Java SE 16 
 - Frontend - Terminal
 - Database - JDBC, HSQLDB
