@@ -1,11 +1,14 @@
-These are my projects
+# These are my projects
 
-Java
+## Java
 1. [Phone Book Organizer Project](https://github.com/mariojoshua/PhoneBookApp) - Destop App
 
-Stack - Java SE 16 - HSQLDB
+### Stack - 
+Backend - Java SE 16 
+Frontend - Terminal
+Database - HSQLDB
 
-Excel VBA
+## Excel VBA
 1. [Kindle Clippings Formatter](https://github.com/mariojoshua/KindleClippingsFormatter) - VBA Macro
   
 
