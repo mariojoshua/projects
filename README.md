@@ -9,7 +9,8 @@
 - Database - JDBC, HSQLDB
 - Design Patterns - MVC, Singleton, DAO
 
-## --**Excel VBA**--
+## **Excel VBA**
+--------
 1. [Kindle Clippings Formatter](https://github.com/mariojoshua/KindleClippingsFormatter) - VBA Macro
   
 
