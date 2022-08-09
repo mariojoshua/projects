@@ -1,7 +1,7 @@
 # These are my current projects
 
 ## Java
-1. [Phone Book Organizer Project](https://github.com/mariojoshua/PhoneBookApp) - Destop App
+1. [Phone Book Organizer Project](https://github.com/mariojoshua/PhoneBookApp) - Desktop App
 
 ### Stack 
 - Backend - Java SE 16 
