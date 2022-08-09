@@ -1,2 +1,9 @@
-# projects
-Repository link to all my projects
+These are my projects
+
+Java
+1. Phone Book Organizer Project - Destop App
+Stack - Java SE 16 - HSQLDB
+
+Excel VBA
+1.Kindle Clippings Formatter - VBA Macro
+
