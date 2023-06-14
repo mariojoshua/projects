@@ -9,4 +9,4 @@
   *Click on Project link to view complete project* 
 |No.|Language/Stack|Project Link|Tech Components|
 |---|---|---|---|
-|1|Java Springboot|[Amenity Reservation System](https://github.com/mariojoshua/amenity-reservation-system))|Backend - Java SE 1, <br> Database- H2 in-mem db.
+
